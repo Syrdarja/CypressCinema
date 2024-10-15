@@ -1,0 +1,15 @@
+{
+  "name": "cypresscinema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "Marina Prokhacheva",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.15.0"
+  }
+}
